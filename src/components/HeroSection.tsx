@@ -6,7 +6,7 @@ const HeroSection: React.FC = () => {
       <div className="absolute inset-0 bg-[url(https://cdn.properties.emaar.com/wp-content/uploads/2024/08/VEO.jpg)] bg-cover bg-center opacity-20"></div>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto">
-          <h1 className="text-4xl sm:text-5xl lg:text-4xl font-bold mb-7 leading-tight">
+          <h1 className="text-4xl sm:text-5xl lg:text-4xl font-bold mb-3 leading-tight">
             Turn Your Gym Into a <span className="text-accent-300">Referral Machine</span>
           </h1>
           <p className="text-x0,5 sm:text-2xl lg:text-3xl mb-7 font-light">
