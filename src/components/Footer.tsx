@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
                 <div className="max-w-6xl mx-auto">
                     <div className="grid gap-10 md:grid-cols-3 lg:grid-cols-3 mb-16">
                         <div className="md:col-span-1 lg:col-span-1">
-                            <h3 className="text-xl font-bold mb-4">Gym Referral Boosters</h3>
+                            <h3 className="text-xl font-bold mb-4">Gym Referral Booster</h3>
                             <p className="text-gray-400 mb-6">
                                 Helping fitness center owners transform happy members into their best sales team.
                             </p>
