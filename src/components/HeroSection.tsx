@@ -10,7 +10,7 @@ const HeroSection: React.FC = () => {
             Turn Your Gym Into a <span className="text-accent-300">Referral Machine</span>
           </h1>
           <p className="text-x0,5 sm:text-2xl lg:text-3xl mb-1.5 font-light">
-            Get 20+ New Members Every Month Without Spending a Dime on Ads
+            Get 20+ New Members Every Month Without Spending a Dime on Ad
           </p>
 
           {/* YouTube Video Container - JAVÍTOTT IFRAME */}
