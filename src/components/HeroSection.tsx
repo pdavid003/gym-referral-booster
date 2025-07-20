@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection: React.FC = () => {
   return (
-    <section className="relative pt-8 pb-16 sm:pt-24 sm:pb-20 lg:pt-32 lg:pb-24 bg-gradient-to-br from-primary-800 to-primary-600 text-white">
+    <section className="relative pt-20 pb-16 sm:pt-24 sm:pb-20 lg:pt-32 lg:pb-24 bg-gradient-to-br from-primary-800 to-primary-600 text-white">
       <div className="absolute inset-0 bg-[url(https://cdn.properties.emaar.com/wp-content/uploads/2024/08/VEO.jpg)] bg-cover bg-center opacity-20"></div>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto">
