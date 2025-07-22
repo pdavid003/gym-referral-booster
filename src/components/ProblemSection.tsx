@@ -7,7 +7,7 @@ const ProblemSection: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold mb-8 text-gray-900">
-            Here's what <span className="text-blue-600">nobody talks about</span> in the fitness industry...
+            Here's what <span className="text-primary-600">nobody talks about</span> in the fitness industry...
           </h2>
           
           <div className="space-y-6 text-lg text-gray-700">
