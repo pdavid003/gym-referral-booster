@@ -3,7 +3,7 @@ import { TrendingUp, Users, DollarSign, Award } from 'lucide-react';
 
 const ValuePropositionSection: React.FC = () => {
   return (
-    <section id="value-proposition" className="py-20 bg-gradient-to-br from-primary-600 to-primary-900 text-white">
+    <section id="value-proposition" className="py-20 bg-gradient-to-br from-primary-500 to-primary-900 text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
