@@ -72,7 +72,7 @@ const OpportunitySection: React.FC = () => {
               </div>
             </div>
             
-            <div className="bg-primary-50 border-l-4 border-bg-pimary-600 p-6 my-8">
+            <div className="bg-primary-50 border-l-4 border-pimary-600 p-6 my-8">
               <p className="mb-3">One gym owner in Texas went from 3 referrals in six months to 31 referrals in 30 days.</p>
               <p>Another in Florida doubled their membership in 90 days using only referrals.</p>
             </div>
