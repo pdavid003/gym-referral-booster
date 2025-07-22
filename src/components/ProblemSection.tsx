@@ -15,15 +15,15 @@ const ProblemSection: React.FC = () => {
               Your members love your gym. They get results. They tell their friends how great you are.
             </p>
             
-            <p className="text-xl font-semibold text-blue-800">
+            <p className="text-xl font-semibold text-primary-600">
               But they never actually bring those friends in.
             </p>
             
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
-              <p className="text-2xl font-bold text-blue-900 mb-2">
+            <div className="bg-primary-50 border-l-4 border-primary-500 p-6 my-8">
+              <p className="text-2xl font-bold text-primary-800 mb-2">
                 It's called Referral Resistance Syndrome.
               </p>
-              <p className="italic text-blue-800">
+              <p className="italic text-primary-700">
                 And it's not your fault.
               </p>
             </div>
@@ -69,7 +69,7 @@ const ProblemSection: React.FC = () => {
               The people who know your value best aren't sharing it. The people who could bring you the best new members stay silent.
             </p>
             
-            <div className="mt-8 flex items-center space-x-2 text-blue-600 font-medium">
+            <div className="mt-8 flex items-center space-x-2 text-primary-600 font-medium">
               <p>This happens in 9 out of 10 fitness centers. Even the successful ones.</p>
               <ArrowRight size={20} />
             </div>
