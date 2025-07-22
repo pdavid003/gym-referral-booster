@@ -6,7 +6,7 @@ const OpportunitySection: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold mb-8 text-gray-900">
-            But what if you could <span className="text-blue-600">flip that switch?</span>
+            But what if you could <span className="text-primary-600">flip that switch?</span>
           </h2>
           
           <div className="space-y-6 text-lg text-gray-700">
@@ -14,7 +14,7 @@ const OpportunitySection: React.FC = () => {
               What if your members became excited to bring friends instead of scared?
             </p>
             
-            <div className="bg-blue-600 text-white p-6 rounded-lg my-8">
+            <div className="bg-primary-600 text-white p-6 rounded-lg my-8">
               <p className="text-2xl font-bold mb-2">
                 That's exactly what Neural Reframing does.
               </p>
@@ -43,7 +43,7 @@ const OpportunitySection: React.FC = () => {
               But mention their gym? Suddenly they freeze up.
             </p>
             
-            <p className="text-xl font-semibold text-blue-600">
+            <p className="text-xl font-semibold text-primary-600">
               Neural Reframing fixes that broken connection.
             </p>
             
@@ -53,20 +53,20 @@ const OpportunitySection: React.FC = () => {
               </p>
               
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-blue-500">
-                  <p className="text-3xl font-bold text-blue-600 mb-2">23+</p>
+                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-primary-500">
+                  <p className="text-3xl font-bold text-primary-600 mb-2">23+</p>
                   <p className="font-medium text-gray-700">new referrals per month</p>
                 </div>
-                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-blue-500">
-                  <p className="text-3xl font-bold text-blue-600 mb-2">67%</p>
+                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-primary-500">
+                  <p className="text-3xl font-bold text-primary-600 mb-2">67%</p>
                   <p className="font-medium text-gray-700">higher member retention rates</p>
                 </div>
-                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-blue-500">
-                  <p className="text-3xl font-bold text-blue-600 mb-2">40%</p>
+                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-primary-500">
+                  <p className="text-3xl font-bold text-primary-600 mb-2">40%</p>
                   <p className="font-medium text-gray-700">lower cost per new member</p>
                 </div>
-                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-blue-500">
-                  <p className="text-3xl font-bold text-blue-600 mb-2">100%</p>
+                <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-primary-500">
+                  <p className="text-3xl font-bold text-primary-600 mb-2">100%</p>
                   <p className="font-medium text-gray-700">members who actually ask to bring friends</p>
                 </div>
               </div>
@@ -85,7 +85,7 @@ const OpportunitySection: React.FC = () => {
               Your members want to help you succeed. They want their friends to get the same results they're getting.
             </p>
             
-            <p className="text-xl font-semibold text-blue-600 mt-8">
+            <p className="text-xl font-semibold text-primary-600 mt-8">
               Neural Reframing just makes it feel natural again.
             </p>
           </div>
