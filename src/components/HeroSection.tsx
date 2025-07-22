@@ -37,7 +37,7 @@ const HeroSection: React.FC = () => {
           </div>
 
           <div className="mb-8 max-w-2xl mx-auto">
-            <p className="text-lg sm:text-xl mb-10 max-w-5xl mx-auto">
+            <p className="text-lg sm:text-xl mb-10 max-w-3xl mx-auto">
               Stop watching your competitors steal your members while you struggle with empty classes and rising costs.
             </p>
             <p className="mb-8 text-lg">
