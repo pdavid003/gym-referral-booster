@@ -22,8 +22,8 @@ const PricingSection: React.FC = () => {
               </div>
               <h3 className="text-2xl sm:text-3xl font-bold mb-4">Complete Gym Referral Booster</h3>
               <div className="flex items-center justify-center mb-2">
-                <span className="text-lg line-through opacity-70">$1997</span>
-                <span className="text-4xl sm:text-5xl font-bold ml-3">$997</span>
+                <span className="text-lg line-through opacity-70">$597</span>
+                <span className="text-4xl sm:text-5xl font-bold ml-3">$297</span>
               </div>
               <p className="text-sm opacity-90">One-time payment. No recurring fees.</p>
             </div>
