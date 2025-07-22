@@ -3,7 +3,7 @@ import { TrendingUp, Users, DollarSign, Award } from 'lucide-react';
 
 const ValuePropositionSection: React.FC = () => {
   return (
-    <section id="value-proposition" className="py-20 bg-gradient-to-br from-blue-900 to-blue-700 text-white">
+    <section id="value-proposition" className="py-20 bg-gradient-to-br from-primary-900 to-primary-700 text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
@@ -73,7 +73,7 @@ const ValuePropositionSection: React.FC = () => {
           <div className="mt-16 text-center">
             <a 
               href="https://whop.com/gym-referral-booster/?store=true"
-              className="inline-block bg-yellow-500 hover:bg-yellow-400 text-blue-900 font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+              className="inline-block bg-yellow-500 hover:bg-yellow-400 text-primary-900 font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
               target="_blank"
               rel="noopener noreferrer"
             >
