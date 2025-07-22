@@ -44,10 +44,6 @@ const PricingSection: React.FC = () => {
                 </div>
                 <div className="flex items-start">
                   <Check className="text-green-500 mr-2 mt-1 flex-shrink-0" size={20} />
-                  <p>Private community access</p>
-                </div>
-                <div className="flex items-start">
-                  <Check className="text-green-500 mr-2 mt-1 flex-shrink-0" size={20} />
                   <p>Lifetime access to all materials</p>
                 </div>
               </div>
