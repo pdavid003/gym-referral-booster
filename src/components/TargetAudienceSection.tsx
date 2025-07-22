@@ -54,7 +54,7 @@ const TargetAudienceSection: React.FC = () => {
             <div className="flex items-center justify-center">
               <a 
                 href="#pricing" 
-                className="inline-flex items-center text-white bg-accent-400 hover:bg-accent-400 px-6 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105"
+                className="inline-flex items-center text-white bg-accent-300 hover:bg-accent-400 px-6 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105"
               >
                 <span>See if you qualify</span>
                 <Check className="ml-2" size={20} />
