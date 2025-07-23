@@ -55,7 +55,7 @@ const PricingSection: React.FC = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  YES! TRANSFORM MY GYM'S REFERRAL SYSTEM NOW
+                  YES! TRANSFORM MY GYM NOW
                 </a>
                 <p className="text-sm text-gray-500 mt-4">
                   Secure payment. 
