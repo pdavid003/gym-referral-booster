@@ -54,7 +54,7 @@ const ConcernsSection: React.FC = () => {
             </div>
             
             <div className="bg-gray-50 p-6 sm:p-8 rounded-lg border border-gray-200">
-              <h3 className="text-xl font-bold text-blue-700 mb-4">
+              <h3 className="text-xl font-bold text-primary-600 mb-4">
                 "I can't afford to invest more money right now. My budget is already tight."
               </h3>
               <div className="space-y-4 text-gray-700">
@@ -73,14 +73,14 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   And unlike ads, referrals keep working even when you're not paying for them.
                 </p>
-                <p className="font-medium text-blue-800">
+                <p className="font-medium text-primary-600">
                   One new member pays for the entire system. Everything after that is pure profit.
                 </p>
               </div>
             </div>
             
             <div className="bg-gray-50 p-6 sm:p-8 rounded-lg border border-gray-200">
-              <h3 className="text-xl font-bold text-blue-700 mb-4">
+              <h3 className="text-xl font-bold text-primary-600 mb-4">
                 "My staff is already overwhelmed. We don't have time for another system."
               </h3>
               <div className="space-y-4 text-gray-700">
