@@ -27,7 +27,7 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   The data backs this up. Referred members stay 37% longer than other members. They spend 25% more on average.
                 </p>
-                <p className="font-medium text-primary-800">
+                <p className="font-medium text-primary-700">
                   This isn't theory. It's proven science.
                 </p>
               </div>
