@@ -23,7 +23,7 @@ const FutureVisionSection: React.FC = () => {
                 Your phone keeps ringing with new member inquiries.
               </p>
               
-              <p className="text-lg font-medium text-primary-600 mb-4">
+              <p className="text-lg font-medium text-yellow-600 mb-4">
                 But here's the best part...
               </p>
               
