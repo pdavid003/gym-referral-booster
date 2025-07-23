@@ -129,7 +129,7 @@ const OriginStorySection: React.FC = () => {
                   <p className="text-2xl font-bold text-primary-700 mb-2">Waiting List</p>
                   <p>My gym went from nearly closing to having a waiting list</p>
                 </div>
-                <div className="bg-blue-50 p-5 rounded-lg shadow-sm border border-primary-100 text-center">
+                <div className="bg-primary-50 p-5 rounded-lg shadow-sm border border-primary-100 text-center">
                   <p className="text-2xl font-bold text-primary-700 mb-2">Industry Interest</p>
                   <p>Other gym owners started asking what I was doing</p>
                 </div>
