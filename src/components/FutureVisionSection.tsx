@@ -64,7 +64,7 @@ const FutureVisionSection: React.FC = () => {
               You've got a waiting list of people wanting to join.
             </p>
             
-            <div className="border-l-4 border-red-500 pl-6 my-10 py-2">
+            <div className="border-l-4 border-red-600 pl-6 my-10 py-2">
               <p className="text-xl font-medium mb-4">But what if you don't act now?</p>
               <p className="mb-3">What if you keep doing the same things that aren't working?</p>
               <p className="mb-3">
@@ -73,7 +73,7 @@ const FutureVisionSection: React.FC = () => {
               <p className="mb-3">
                 Still feeling that knot in your stomach when you check your bank account.
               </p>
-              <p className="text-lg font-medium text-red-500">
+              <p className="text-lg font-medium text-red-600">
                 Your dream of building a fitness empire will slip further away.
               </p>
             </div>
