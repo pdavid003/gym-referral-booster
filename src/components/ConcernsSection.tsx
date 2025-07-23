@@ -126,7 +126,7 @@ const ConcernsSection: React.FC = () => {
           <div className="text-center mt-12">
             <a 
               href="https://whop.com/gym-referral-booster/?store=true"
-              className="inline-block bg-primary-700 hover:bg-primary-800 text-white font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+              className="inline-block bg-primary-700 hover:bg-primary-700 text-white font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
               target="_blank"
               rel="noopener noreferrer"
             >
