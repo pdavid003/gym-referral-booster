@@ -27,17 +27,17 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   The data backs this up. Referred members stay 37% longer than other members. They spend 25% more on average.
                 </p>
-                <p className="font-medium text-primary-700">
+                <p className="font-medium text-primary-600">
                   This isn't theory. It's proven science.
                 </p>
               </div>
             </div>
             
             <div className="bg-gray-50 p-6 sm:p-8 rounded-lg border border-gray-200">
-              <h3 className="text-xl font-bold text-blue-700 mb-4">
+              <h3 className="text-xl font-bold text-primary-600 mb-4">
                 "What if I implement this system and it doesn't work for my gym?"
               </h3>
-              <div className="space-y-4 text-gray-700">
+              <div className="space-y-4 text-gray-600">
                 <p>
                   Fair question. Every gym is different.
                 </p>
@@ -47,7 +47,7 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   Plus, you're covered by our 90-day guarantee. If you don't see results, you get your money back.
                 </p>
-                <p className="font-medium text-blue-800">
+                <p className="font-medium text-primary-600">
                   But here's what I really think will happen... You'll see your first referrals within the first two weeks.
                 </p>
               </div>
