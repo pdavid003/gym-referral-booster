@@ -94,7 +94,7 @@ const FutureVisionSection: React.FC = () => {
               Your current members.
             </p>
             
-            <div className="bg-blue-600 p-6 rounded-lg my-10">
+            <div className="bg-primary-400 p-6 rounded-lg my-10">
               <p className="mb-2">
                 Every day you wait is another day your competitors get ahead.
               </p>
