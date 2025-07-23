@@ -143,7 +143,7 @@ const OriginStorySection: React.FC = () => {
                 Their results were even better than mine.
               </p>
               
-              <p className="text-lg text-blue-700 font-medium mt-8">
+              <p className="text-lg text-primary-700 font-medium mt-8">
                 That's when I knew I had something special. A system that could save struggling gyms and transform successful ones into market leaders.
               </p>
             </div>
