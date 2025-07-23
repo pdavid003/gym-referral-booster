@@ -93,14 +93,14 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   People who already want to join because their friend recommended you.
                 </p>
-                <p className="font-medium text-blue-800">
+                <p className="font-medium text-primary-800">
                   The system actually makes their job easier, not harder.
                 </p>
               </div>
             </div>
             
             <div className="bg-gray-50 p-6 sm:p-8 rounded-lg border border-gray-200">
-              <h3 className="text-xl font-bold text-blue-700 mb-4">
+              <h3 className="text-xl font-bold text-primary-700 mb-4">
                 "What if my current members don't want to participate in a referral program?"
               </h3>
               <div className="space-y-4 text-gray-700">
@@ -126,7 +126,7 @@ const ConcernsSection: React.FC = () => {
           <div className="text-center mt-12">
             <a 
               href="https://whop.com/gym-referral-booster/?store=true"
-              className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+              className="inline-block bg-primary-600 hover:bg-blue-700 text-white font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
               target="_blank"
               rel="noopener noreferrer"
             >
