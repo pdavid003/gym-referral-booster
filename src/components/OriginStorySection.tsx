@@ -57,7 +57,7 @@ const OriginStorySection: React.FC = () => {
                 That's when I noticed something strange...
               </p>
               
-              <div className="bg-primary-50 p-6 rounded-lg my-8 border-l-4 border-blue-500">
+              <div className="bg-primary-50 p-6 rounded-lg my-8 border-l-4 border-primary-500">
                 <p className="mb-2">My happiest members never brought friends. Ever.</p>
                 <p>Sarah had lost 40 pounds and looked amazing. But she never referred anyone.</p>
                 <p>Mike had gained serious muscle and confidence. Still no referrals.</p>
