@@ -52,7 +52,7 @@ const FutureVisionSection: React.FC = () => {
               Remember when you first opened your gym? You had this vision of being the go-to fitness center in your area.
             </p>
             
-            <p className="text-xl font-medium text-yellow-300">
+            <p className="text-xl font-medium text-red-400">
               That vision is now your reality.
             </p>
             
