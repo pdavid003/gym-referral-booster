@@ -16,7 +16,7 @@ const PricingSection: React.FC = () => {
           </div>
           
           <div className="bg-white rounded-2xl shadow-xl overflow-hidden mb-16">
-            <div className="bg-green-700 p-8 text-white text-center">
+            <div className="bg-green-600 p-8 text-white text-center">
               <div className="inline-block bg-yellow-400 text-blue-900 font-bold px-4 py-1 rounded-full text-sm mb-4">
                 LAUNCH SPECIAL
               </div>
