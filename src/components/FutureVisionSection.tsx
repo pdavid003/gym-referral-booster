@@ -73,7 +73,7 @@ const FutureVisionSection: React.FC = () => {
               <p className="mb-3">
                 Still feeling that knot in your stomach when you check your bank account.
               </p>
-              <p className="text-lg font-medium text-red-400">
+              <p className="text-lg font-medium text-red-500">
                 Your dream of building a fitness empire will slip further away.
               </p>
             </div>
