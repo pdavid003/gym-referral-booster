@@ -116,7 +116,7 @@ const ConcernsSection: React.FC = () => {
                 <p>
                   Our clients typically see 60-80% of members participate within the first month.
                 </p>
-                <p className="font-medium text-blue-800">
+                <p className="font-medium text-primary-800">
                   Your members are already talking about your gym. We just help them do it more effectively.
                 </p>
               </div>
