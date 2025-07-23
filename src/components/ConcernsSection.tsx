@@ -11,7 +11,7 @@ const ConcernsSection: React.FC = () => {
           
           <div className="space-y-10">
             <div className="bg-gray-50 p-6 sm:p-8 rounded-lg border border-gray-200">
-              <h3 className="text-xl font-bold text-blue-700 mb-4">
+              <h3 className="text-xl font-bold text-primary-700 mb-4">
                 "This sounds too good to be true. Can referral programs really work that well?"
               </h3>
               <div className="space-y-4 text-gray-700">
