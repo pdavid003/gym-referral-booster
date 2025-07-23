@@ -122,10 +122,10 @@ const OriginStorySection: React.FC = () => {
               
               <div className="grid gap-6 md:grid-cols-3 my-8">
                 <div className="bg-primary-50 p-5 rounded-lg shadow-sm border border-primary-100 text-center">
-                  <p className="text-2xl font-bold text-blue-700 mb-2">90 Days</p>
+                  <p className="text-2xl font-bold text-primary-700 mb-2">90 Days</p>
                   <p>Referrals went from 2 per month to 31 per month</p>
                 </div>
-                <div className="bg-blue-50 p-5 rounded-lg shadow-sm border border-blue-100 text-center">
+                <div className="bg-blue-50 p-5 rounded-lg shadow-sm border border-primary-100 text-center">
                   <p className="text-2xl font-bold text-blue-700 mb-2">Waiting List</p>
                   <p>My gym went from nearly closing to having a waiting list</p>
                 </div>
