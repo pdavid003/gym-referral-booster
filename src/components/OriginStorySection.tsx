@@ -116,7 +116,7 @@ const OriginStorySection: React.FC = () => {
                 Members started bringing friends. Not because I pushed them. Because sharing felt natural again.
               </p>
               
-              <h3 className="text-2xl font-bold text-blue-600 mt-12 mb-4">
+              <h3 className="text-2xl font-bold text-primary-600 mt-12 mb-4">
                 THE BREAKTHROUGH
               </h3>
               
