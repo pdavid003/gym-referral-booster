@@ -45,7 +45,8 @@ const ConcernsSection: React.FC = () => {
                   That's why we built flexibility into the system. You can adapt it to your specific situation.
                 </p>
                 <p>
-                  Plus, you're covered by our 90-day guarantee. If you don't see results, you get your money back.
+                  
+                  
                 </p>
                 <p className="font-medium text-primary-600">
                   But here's what I really think will happen... You'll see your first referrals within the first two weeks.
