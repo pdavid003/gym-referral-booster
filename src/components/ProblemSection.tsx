@@ -69,7 +69,7 @@ const ProblemSection: React.FC = () => {
               The people who know your value best aren't sharing it. The people who could bring you the best new members stay silent.
             </p>
             
-            <div className="mt-8 flex items-center space-x-2 text-primary-600 font-medium">
+            <div className="mt-8 flex items-center space-x-2 text-protected-600 font-medium">
               <p>This happens in 9 out of 10 fitness centers. Even the successful ones.</p>
               <ArrowRight size={20} />
             </div>
