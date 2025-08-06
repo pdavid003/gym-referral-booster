@@ -39,7 +39,7 @@ const OpportunitySection: React.FC = () => {
               </div>
             </div>
             
-            <p className="text-xl font-medium text-red-600">
+            <p className="text-xl font-medium text-primary-600">
               But mention their gym? Suddenly they freeze up.
             </p>
             
