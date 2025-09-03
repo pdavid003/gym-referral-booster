@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
           <div className="mb-8 w-full mx-auto aspect-video bg-black bg-opacity-30 rounded-xl overflow-hidden">
             <iframe
               className="w-full h-full"
-              src="https://www.youtube-nocookie.com/embed/IhHnWhkn5s0?rel=0&enablejsapi=1&origin=https://https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--6ba59070.local-credentialless.webcontainer-api.io/"
+              src="https://www.youtube-nocookie.com/embed/__y1YduwCCo?rel=0"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
