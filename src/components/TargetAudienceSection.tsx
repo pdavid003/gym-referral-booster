@@ -56,7 +56,7 @@ const TargetAudienceSection: React.FC = () => {
                 href="#pricing" 
                 className="inline-flex items-center text-white bg-primary-600 hover:bg-primary-700 px-6 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105"
               >
-                <span>See if you qualify</span>
+                <span>Get access now</span>
                 <Check className="ml-2" size={20} />
               </a>
             </div>
