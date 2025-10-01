@@ -108,7 +108,7 @@ const FutureVisionSection: React.FC = () => {
             
             <div className="text-center mt-10">
               <a 
-                href="https://whop.com/gym-referral-booster/?store=true"
+                href="https://whop.com/gym-referral-booster/gym-referral-booster/?utm_source=store_page"
                 className="inline-block bg-yellow-500 hover:bg-yellow-400 text-blue-900 font-bold py-4 px-10 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
                 target="_blank"
                 rel="noopener noreferrer"
