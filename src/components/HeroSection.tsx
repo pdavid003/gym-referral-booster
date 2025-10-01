@@ -6,7 +6,7 @@ const HeroSection: React.FC = () => {
       <div className="absolute inset-0 bg-[url(https://cdn.properties.emaar.com/wp-content/uploads/2024/08/VEO.jpg)] bg-cover bg-center opacity-20"></div>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto">
-          <h1 className="text-4xl sm:text-5xl lg:text-4xl font-bold mb-7 leading-tight">
+          <h1 className="text-4xl sm:text-5xl lg:text-4xl font-bold mb-5 leading-tight">
             Turn Your Gym Into a <span className="text-accent-300">Referral Machine</span>
           </h1>
           <p className="text-x0,5 sm:text-2xl lg:text-2xl mb-5 font-light">
@@ -14,7 +14,7 @@ const HeroSection: React.FC = () => {
           </p>
 
           {/* YouTube Video Container - JAVÍTOTT IFRAME */}
-          <div className="mb-8 w-full sm:w-11/12 md:w-4/5 lg:w-11/12 xl:w-11/12 mx-auto aspect-video bg-black bg-opacity-30 rounded-xl overflow-hidden">
+          <div className="mb-8 w-full sm:w-11/12 md:w-4/5 lg:w-10/12 xl:w-11/12 mx-auto aspect-video bg-black bg-opacity-30 rounded-xl overflow-hidden">
             <iframe
               className="w-full h-full"
               src="https://www.youtube-nocookie.com/embed/__y1YduwCCo?rel=0"
