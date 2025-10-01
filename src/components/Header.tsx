@@ -63,7 +63,7 @@ const Header: React.FC = () => {
           
           <div className="hidden md:block">
             <a 
-              href="https://whop.com/gym-referral-booster/?store=true"
+              href="https://whop.com/gym-referral-booster/gym-referral-booster/?utm_source=store_page"
               className="bg-primary-600 hover:bg-primary-700 text-white font-semibold py-2 px-6 rounded-full transition-all duration-300 hover:shadow-lg transform hover:-translate-y-0.5"
               target="_blank"
               rel="noopener noreferrer"
@@ -108,7 +108,7 @@ const Header: React.FC = () => {
               FAQ
             </a>
             <a 
-              href="https://whop.com/gym-referral-booster/?store=true"
+              href="https://whop.com/gym-referral-booster/gym-referral-booster/?utm_source=store_page"
               className="bg-primary-600 hover:bg-primary-700 text-white font-semibold py-2 px-6 rounded-full text-center"
               onClick={() => setIsMenuOpen(false)}
               target="_blank"
