@@ -27,7 +27,7 @@ const HeroSection: React.FC = () => {
 
           <div className="mb-12">
             <a
-              href="https://whop.com/gym-referral-booster/?store=true"
+              href="https://whop.com/gym-referral-booster/gym-referral-booster/?utm_source=store_page"
               className="inline-block bg-accent-300 hover:bg-accent-300 text-primary-900 font-bold py-4 px-16 rounded-full text-lg sm:text-xl shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
               target="_blank" // Új lapon nyitja meg a linket
               rel="noopener noreferrer" // Biztonsági javaslat külső linkekhez
