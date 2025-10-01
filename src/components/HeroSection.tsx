@@ -14,7 +14,7 @@ const HeroSection: React.FC = () => {
           </p>
 
           {/* YouTube Video Container - JAVÍTOTT IFRAME */}
-          <div className="mb-8 w-full sm:w-11/12 md:w-4/5 lg:w-2/3 xl:w-1/2 mx-auto aspect-video bg-black bg-opacity-30 rounded-xl overflow-hidden">
+          <div className="mb-8 w-full sm:w-11/12 md:w-4/5 lg:w-11/12 xl:w-11/12 mx-auto aspect-video bg-black bg-opacity-30 rounded-xl overflow-hidden">
             <iframe
               className="w-full h-full"
               src="https://www.youtube-nocookie.com/embed/__y1YduwCCo?rel=0"
