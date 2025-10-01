@@ -9,7 +9,7 @@ const HeroSection: React.FC = () => {
           <h1 className="text-4xl sm:text-5xl lg:text-4xl font-bold mb-3 leading-tight">
             Turn Your Gym Into a <span className="text-accent-300">Referral Machine</span>
           </h1>
-          <p className="text-x0,5 sm:text-2xl lg:text-1xl mb-4 font-light">
+          <p className="text-x0,5 sm:text-2xl lg:text-0,5xl mb-4 font-light">
             Get 20+ New Members Every Month Without Spending a Dime on Ads
           </p>
 
